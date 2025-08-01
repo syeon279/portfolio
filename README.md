@@ -76,9 +76,13 @@
 
 <br /><br />
 
-👉 아래에서 프로젝트별 상세 설명과 트러블슈팅 사례를 확인하실 수 있습니다.
+👉 프로젝트 보러가기
 
-https://github.com/syeon279/portfolio/blob/main/Diary.md
+[ ✈️ TripPaw](https://github.com/syeon279/portfolio/blob/main/TripPaw.md)
+
+[ 🐾 SsdamSSdam](https://github.com/syeon279/portfolio/blob/main/SsdamSsdam.md)
+
+[ 📓 Diary](https://github.com/syeon279/portfolio/blob/main/Diary.md)
 
 
 <br /><br />
