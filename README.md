@@ -254,10 +254,6 @@
 #####  2. 알림
 [![알림](https://img.youtube.com/vi/yMU_mHLzzNE/hqdefault.jpg)](https://youtu.be/yMU_mHLzzNE)
 
-**관점 포인트**  
-- 백엔드에서 이벤트 발생 시 푸시 알림 트리거  
-- Firebase Cloud Messaging(FCM) 또는 WebSocket 기반 실시간 알림  
-- 사용자별 알림 설정은 DB에 저장된 토큰 기반으로 관리
 
 <br/>
 <br/>
@@ -265,10 +261,6 @@
 #####   3. 신고
 [![신고](https://img.youtube.com/vi/3H6S_JBtvTI/hqdefault.jpg)](https://youtu.be/3H6S_JBtvTI)
 
-**관점 포인트**  
-- 클라이언트에서 신고 버튼 클릭 시 POST 요청으로 서버에 전달  
-- 서버는 신고 내용을 DB에 저장하고, 중복 여부 확인  
-- 관리자 페이지에서 신고 내역을 조회 가능하도록 설계
 
 
 <br/>
