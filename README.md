@@ -235,7 +235,7 @@
 
 #### 🔗 관련 링크
 - [GitHub: SsdamSsdam](https://github.com/dpflaalee/sseudamsseudam.git)  
-- [Notion 문서](https://ysh-blue.notion.site/ssdamssdam)
+- [Notion 문서](https://ysh-blue.notion.site/SsdamSsdam-2376ee8f3de9817dbd28d28918e45cc0?source=copy_link)
 
 #### 📺 TripPaw 기능별 기술보고서 + CS 관점 설명
 ##### 1. 카테고리
