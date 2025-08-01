@@ -78,7 +78,8 @@
 
 👉 아래에서 프로젝트별 상세 설명과 트러블슈팅 사례를 확인하실 수 있습니다.
 
-[최근 수행 프로젝트 DB](https://www.notion.so/2376ee8f3de981a99405ff0e1762d5aa?pvs=21)
+https://github.com/syeon279/portfolio/blob/main/Diary.md
+
 
 <br /><br />
 
