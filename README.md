@@ -208,6 +208,7 @@
 
 #### 🔹 트러블슈팅 사례
 <div style="background-color: #fff9e6; padding: 20px; border-radius: 8px; font-family: Arial, sans-serif;">
+
 **1. 신고 콘텐츠 새로고침 후에만 블라인드 처리됨**  
 - 문제: 신고 후 즉시 UI 반영되지 않음  
 - 분석: CSR 방식에서 상태 변경이 클라이언트 캐시에만 반영됨  
@@ -236,6 +237,51 @@
 - [GitHub: SsdamSsdam](https://github.com/dpflaalee/sseudamsseudam.git)  
 - [Notion 문서](https://ysh-blue.notion.site/ssdamssdam)
 
+#### 📺 TripPaw 기능별 기술보고서 + CS 관점 설명
+##### 1. 카테고리
+[![카테고리](https://img.youtube.com/vi/CeOIRNPk7AE/hqdefault.jpg)](https://youtu.be/CeOIRNPk7AE)
+
+**CS 관점 설명**  
+- 데이터베이스에서 장소 정보를 태그 기반으로 분류  
+- 카테고리별 필터링은 SQL `WHERE` 조건 또는 NoSQL의 키 기반 조회  
+- UI에서는 카테고리 선택 시 API 호출 → 필터링된 결과 반환
+
+<br/>
+<br/>
+
+#####  2. 알림
+[![알림](https://img.youtube.com/vi/yMU_mHLzzNE/hqdefault.jpg)](https://youtu.be/yMU_mHLzzNE)
+
+**CS 관점 설명**  
+- 백엔드에서 이벤트 발생 시 푸시 알림 트리거  
+- Firebase Cloud Messaging(FCM) 또는 WebSocket 기반 실시간 알림  
+- 사용자별 알림 설정은 DB에 저장된 토큰 기반으로 관리
+
+<br/>
+<br/>
+
+#####   3. 신고
+[![신고](https://img.youtube.com/vi/3H6S_JBtvTI/hqdefault.jpg)](https://youtu.be/3H6S_JBtvTI)
+
+**CS 관점 설명**  
+- 클라이언트에서 신고 버튼 클릭 시 POST 요청으로 서버에 전달  
+- 서버는 신고 내용을 DB에 저장하고, 중복 여부 확인  
+- 관리자 페이지에서 신고 내역을 조회 가능하도록 설계
+
+
+<br/>
+<br/>
+
+#####   4. 누적 신고 → 로그인 제한
+[![누적 신고 → 로그인 제한](https://img.youtube.com/vi/kmmFH33GZBg/hqdefault.jpg)](https://youtu.be/kmmFH33GZBg)
+
+**CS 관점 설명**  
+- 사용자 신고 횟수를 DB에서 카운트  
+- 일정 횟수 초과 시 사용자 상태를 `restricted`로 변경  
+- 로그인 시 사용자 상태를 체크하여 제한 여부 판단  
+- JWT 토큰 발급 시 권한 필드에 제한 여부 포함 가능
+
+
 
 
 <br/>
@@ -259,6 +305,7 @@
 
 #### 🔹 트러블슈팅 사례
 <div style="background-color: #fff9e6; padding: 20px; border-radius: 8px; font-family: Arial, sans-serif;">
+
 **1. routeData.map null 오류**  
 - 문제: 컴포넌트 렌더링 시 map 호출 오류 발생  
 - 분석: React의 렌더링 순서상 useEffect 이전에 map 실행됨 → null 참조  
@@ -295,7 +342,20 @@
 - [시연 영상](https://youtu.be/LXcgUj_6oBI?feature=shared)
 
  
- 
+#### 📺 TripPaw 기술보고서 영상 모음
+
+##### 1. 검색 성능 저하
+[![검색 성능 저하](https://img.youtube.com/vi/zmejqwiYpcA/hqdefault.jpg)](https://youtu.be/zmejqwiYpcA)
+
+##### 2. 무한스크롤
+[![무한스크롤](https://img.youtube.com/vi/Zr52ahnm0-4/hqdefault.jpg)](https://www.youtube.com/watch?v=Zr52ahnm0-4)
+
+##### 3. 경로추천
+[![경로추천](https://img.youtube.com/vi/LXcgUj_6oBI/hqdefault.jpg)](https://youtu.be/LXcgUj_6oBI)
+
+##### 4. 경로공개
+[![경로공개](https://img.youtube.com/vi/Fasn9dj6hKc/hqdefault.jpg)](https://youtu.be/Fasn9dj6hKc)
+
 
 
 <br/>
