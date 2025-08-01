@@ -1,5 +1,7 @@
 
-# 윤소현
+#  <img width="100" height="100" alt="나" src="https://github.com/user-attachments/assets/9474b41b-911a-4479-bf74-c02d03c4598b" /> 윤소현
+
+<br />
 
 > 완벽보다는 완성을 향해 <br /> **흐름을 설계하고, 문제를 끝까지 해결하는 개발자**, **윤소현**입니다.
 
