@@ -145,3 +145,8 @@ https://youtu.be/Fasn9dj6hKc?feature=shared
 2. 초기 설계 부족으로 인해 스크롤 처리를 나중에 **리팩토링**하게 되었음 
 3. 공공 데이터 포털의 관광 정보 API 구조가 복잡하고 비일관적이어서, **응답 데이터를 분석하는데에 많은 시간이 소요되었음**
 4. 응답 형태가 contentType에 따라 달라져 **케이스마다 파싱 로직을 나눠야 했고**, 이 과정에서 **DB 저장 로직이 여러 차례 실패하고, 예외 처리를 추가하며 구조를 보완**해야 했음
+
+<br />
+<br />
+
+[⏪ ReadMe로 돌아가기](https://github.com/syeon279/portfolio/blob/main/README.md)
