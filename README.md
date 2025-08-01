@@ -19,6 +19,7 @@
 - **연락처:** 010-4857-8428
 - **이메일:** syeonblue@gmail.com
 - **GIT:** https://github.com/syeon279
+- **NOTION:** https://ysh-blue.notion.site/ysh
   
 <br />
 <br />
