@@ -121,3 +121,9 @@ https://youtu.be/kmmFH33GZBg?feature=shared
 
 1. 프로젝트 중반까지 **전체 흐름과 설계를 충분히 조율하지 못해**, 로직이 뒤섞이는 경험
 2. 일부 기능 구현에 집중하다가 **디자인·일관성 측면의 완성도**가 다소 떨어짐
+
+
+<br />
+<br />
+
+[⏪ ReadMe로 돌아가기](https://github.com/syeon279/portfolio/blob/main/README.md)
