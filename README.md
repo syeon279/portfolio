@@ -183,7 +183,7 @@
 
 #### 🔗 관련 링크
 - [GitHub: Diary](https://github.com/Lee-jaemyeong/team-repository.git)  
-- [Notion 문서](https://ysh-blue.notion.site/Diary-2376ee8f3de98057abe8c8d288c17f2b)
+- [Notion 문서](https://ysh-blue.notion.site/Diary-2376ee8f3de981fe81f1e5a3bc680093?source=copy_link)
 
 
 
@@ -338,7 +338,7 @@
 
 #### 🔗 관련 링크
 - [GitHub: TripPaw](https://github.com/syeon279/tripPaw.git)  
-- [Notion 문서](https://ysh-blue.notion.site/trippaw)  
+- [Notion 문서](https://ysh-blue.notion.site/Trip-Paw-2376ee8f3de981398815e915fe4f6d77?source=copy_link)
 - [시연 영상](https://youtu.be/LXcgUj_6oBI?feature=shared)
 
  
