@@ -160,3 +160,8 @@ https://youtu.be/vHFGKVR2zNs
 
 1. 초기에 데이터 흐름과 구조에 대한 설계가 부족하여 **예외 케이스가 후반에 터짐**
 2. 기능 위주 구현에 치우쳐 **테스트 코드나 검증 로직이 미흡**했던 부분
+
+<br />
+<br />
+
+[⏪ ReadMe로 돌아가기](https://github.com/syeon279/portfolio/blob/main/README.md)
