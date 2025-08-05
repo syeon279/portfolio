@@ -89,7 +89,7 @@
       <td>데이터 무결성 및 성능 균형</td>
     </tr>
     <tr style="background-color: #f9e6ff;">
-      <td>알고리즘 (BFS, 정렬/필터링 최적화)</td>
+      <td>알고리즘 (정렬/필터링 최적화)</td>
       <td>경로 추천, 리스트 최적화</td>
     </tr>
     <tr style="background-color: #f9e6ff;">
