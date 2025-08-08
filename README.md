@@ -63,11 +63,6 @@
       <td>UI 라이브러리 활용, API 연동, 위치·날짜 처리</td>
     </tr>
     <tr style="background-color: #e6ffe6;">
-      <td rowspan="3"><strong>Infra / DevOps</strong></td>
-      <td>AWS EC2, S3, Nginx Reverse Proxy</td>
-      <td><strong>배포 자동화</strong>, 트래픽 분산, 서버 구성</td>
-    </tr>
-    <tr style="background-color: #e6ffe6;">
       <td>GitHub Actions, Git Flow 전략</td>
       <td>CI/CD 구축, 협업 브랜치 전략</td>
     </tr>
