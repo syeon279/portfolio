@@ -249,39 +249,27 @@
 - [GitHub: SsdamSsdam](https://github.com/dpflaalee/sseudamsseudam.git)  
 - [Notion 문서](https://ysh-blue.notion.site/SsdamSsdam-2376ee8f3de9817dbd28d28918e45cc0?source=copy_link)
 
-#### 📺 TripPaw 기능별 기술보고서 + CS 관점 설명
-##### 1. 카테고리
-[![카테고리](https://img.youtube.com/vi/CeOIRNPk7AE/hqdefault.jpg)](https://youtu.be/CeOIRNPk7AE)
-
-**관점 포인트**  
-- 데이터베이스에서 장소 정보를 태그 기반으로 분류  
-- 카테고리별 필터링은 SQL `WHERE` 조건 또는 NoSQL의 키 기반 조회  
-- UI에서는 카테고리 선택 시 API 호출 → 필터링된 결과 반환
+#### 📺 SsdamSSdam 기능별 기술보고서
+##### 1. 검색
+![검색_git mp4](https://github.com/user-attachments/assets/8b302ed5-05e3-45a3-817e-d7c96a76fd69)
 
 <br/>
 <br/>
 
 #####  2. 알림
-[![알림](https://img.youtube.com/vi/yMU_mHLzzNE/hqdefault.jpg)](https://youtu.be/yMU_mHLzzNE)
-
+![알림_git_t mp4](https://github.com/user-attachments/assets/3fb78184-367c-40f1-80eb-d725386339ce)
 
 <br/>
 <br/>
 
-#####   3. 신고
-[![신고](https://img.youtube.com/vi/3H6S_JBtvTI/hqdefault.jpg)](https://youtu.be/3H6S_JBtvTI)
-
-
+#####   3. 신고 + 블라인드
+![블라인드_git mp4](https://github.com/user-attachments/assets/6ec5bb56-6983-451a-8b9b-f5f840aa2392)
 
 <br/>
 <br/>
 
 #####   4. 누적 신고 → 로그인 제한
-[![누적 신고 → 로그인 제한](https://img.youtube.com/vi/kmmFH33GZBg/hqdefault.jpg)](https://youtu.be/kmmFH33GZBg)
-
-
-
-
+![누적신고+로그인제한_git mp4](https://github.com/user-attachments/assets/e2b98844-f2ff-4690-acf2-eb3f6eea7e7f)
 
 <br/>
 <br/>
@@ -352,14 +340,20 @@
 ##### 1. 무한 스크롤
 ![무한 스크롤 mp4](https://github.com/user-attachments/assets/d110d47f-d477-4c34-8974-70dee5e3cc49)
 
+<br/>
+<br/>
 
 ##### 2. 경로 추천
 ![경로 추천 mp4](https://github.com/user-attachments/assets/6dde90b7-6b70-4abd-bddc-383efe049fb8)
 
+<br/>
+<br/>
 
 ##### 3. 경로 편집 - 드래그앤드랍
 ![경로 추천_드래그앤 드랍 mp4](https://github.com/user-attachments/assets/42ada121-7856-407d-bbbd-6bf9d58af8e3)
 
+<br/>
+<br/>
 
 ##### 4. 경로 일차별 렌더링
 ![경로 추천_일차별 클릭 mp4](https://github.com/user-attachments/assets/4b4173fd-6056-4a1b-b8ca-bd646c44cd42)
