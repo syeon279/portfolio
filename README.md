@@ -347,19 +347,23 @@
 - [시연 영상](https://youtu.be/LXcgUj_6oBI?feature=shared)
 
  
-#### 📺 TripPaw 기술보고서 영상 모음
+#### 📺 TripPaw 기술보고서 모음
 
-##### 1. 검색 성능 저하
-[![검색 성능 저하](https://img.youtube.com/vi/zmejqwiYpcA/hqdefault.jpg)](https://youtu.be/zmejqwiYpcA)
+##### 1. 무한 스크롤
+![무한 스크롤 mp4](https://github.com/user-attachments/assets/d110d47f-d477-4c34-8974-70dee5e3cc49)
 
-##### 2. 무한스크롤
-[![무한스크롤](https://img.youtube.com/vi/Zr52ahnm0-4/hqdefault.jpg)](https://www.youtube.com/watch?v=Zr52ahnm0-4)
 
-##### 3. 경로추천
-[![경로추천](https://img.youtube.com/vi/LXcgUj_6oBI/hqdefault.jpg)](https://youtu.be/LXcgUj_6oBI)
+##### 2. 경로 추천
+![경로 추천 mp4](https://github.com/user-attachments/assets/6dde90b7-6b70-4abd-bddc-383efe049fb8)
 
-##### 4. 경로공개
-[![경로공개](https://img.youtube.com/vi/Fasn9dj6hKc/hqdefault.jpg)](https://youtu.be/Fasn9dj6hKc)
+
+##### 3. 경로 편집 - 드래그앤드랍
+![경로 추천_드래그앤 드랍 mp4](https://github.com/user-attachments/assets/42ada121-7856-407d-bbbd-6bf9d58af8e3)
+
+
+##### 4. 경로 일차별 렌더링
+![경로 추천_일차별 클릭 mp4](https://github.com/user-attachments/assets/4b4173fd-6056-4a1b-b8ca-bd646c44cd42)
+
 
 
 
