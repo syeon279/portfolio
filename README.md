@@ -43,7 +43,7 @@
     <tr style="background-color: #e8f4ff;">
       <td rowspan="2"><strong>Backend</strong></td>
       <td>Java 11, Spring Boot 2.7.14, JPA, MyBatis 2.3.1</td>
-      <td><strong>REST API 설계</strong>, 트랜잭션 처리, 비동기 로직, 인증(JWT+세션), OpenAPI 파싱, AI 리뷰 생성</td>
+      <td><strong>REST API 설계</strong>, 트랜잭션 처리, 비동기 로직, 인증(JWT+세션), OpenAPI 파싱</td>
     </tr>
     <tr style="background-color: #e8f4ff;">
       <td>Spring Security, Redis, MySQL 8.0</td>
@@ -56,7 +56,7 @@
     </tr>
     <tr style="background-color: #fff7e6;">
       <td>WebSocket, dnd-kit, styled-components</td>
-      <td>실시간 인터랙션, 드래그 UI, 커스터마이징 디자인</td>
+      <td>드래그 UI, 커스터마이징 디자인</td>
     </tr>
     <tr style="background-color: #fff7e6;">
       <td>Antd, Axios, Kakao Map API, date-fns</td>
@@ -78,7 +78,7 @@
     <tr style="background-color: #f9e6ff;">
       <td rowspan="5"><strong>CS 기반 역량</strong></td>
       <td>HTTP, CORS, 상태 코드 처리</td>
-      <td><strong>네트워크 흐름 이해</strong> 및 예외 대응</td>
+      <td>네트워크 흐름 이해 및 예외 대응</td>
     </tr>
     <tr style="background-color: #f9e6ff;">
       <td>Promise, async/await, 스레드 vs 프로세스</td>
